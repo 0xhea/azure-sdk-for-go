@@ -61,6 +61,9 @@ var (
 
 	// ChatCompletionsToolChoiceNone means the model will not call a function and instead generates a message.
 	ChatCompletionsToolChoiceNone *ChatCompletionsToolChoice = &ChatCompletionsToolChoice{value: "none"}
+
+	// ChatCompletionsToolChoiceRequired means the model must call one or more tools.
+	ChatCompletionsToolChoiceRequired *ChatCompletionsToolChoice = &ChatCompletionsToolChoice{value: "required"}
 )
 
 // NewChatCompletionsToolChoice creates a ChatCompletionsToolChoice for a specific tool.
