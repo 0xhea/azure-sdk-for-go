@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/datalake-analytics/armdatalakeanalytics
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/datalake-analytics/armdatalakeanalytics
 
 go 1.18
 

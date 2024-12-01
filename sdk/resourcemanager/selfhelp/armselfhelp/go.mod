@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/selfhelp/armselfhelp/v2
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/selfhelp/armselfhelp/v2
 
 go 1.18
 

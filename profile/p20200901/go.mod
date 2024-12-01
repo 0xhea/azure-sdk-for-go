@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/profile/p20200901
+module github.com/0xhea/azure-sdk-for-go/profile/p20200901
 
 go 1.18
 

@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/ai/azopenaiextensions
+module github.com/0xhea/azure-sdk-for-go/sdk/ai/azopenaiextensions
 
 go 1.21
 

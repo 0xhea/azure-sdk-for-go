@@ -186,7 +186,7 @@ func BuildModFile(modules []Module, serviceDirectory string) error {
 	handle(err)
 	defer f.Close()
 
-	_, err = f.WriteString(fmt.Sprintf("module github.com/Azure/azure-sdk-for-go/sdk/smoketests\n\n%s\n\n", getVersion()))
+	_, err = f.WriteString(fmt.Sprintf("module github.com/0xhea/azure-sdk-for-go/sdk/smoketests\n\n%s\n\n", getVersion()))
 	if err != nil {
 		return err
 	}

@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/monitor/query/azmetrics
+module github.com/0xhea/azure-sdk-for-go/sdk/monitor/query/azmetrics
 
 go 1.18
 

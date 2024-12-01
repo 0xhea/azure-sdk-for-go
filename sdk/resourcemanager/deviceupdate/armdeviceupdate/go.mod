@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/deviceupdate/armdeviceupdate
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/deviceupdate/armdeviceupdate
 
 go 1.18
 

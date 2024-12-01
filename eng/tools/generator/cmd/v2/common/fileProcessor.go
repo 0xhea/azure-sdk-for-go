@@ -431,7 +431,7 @@ func UpdateModuleDefinition(packageRootPath, rpName, namespaceName string, versi
 				line = strings.TrimRight(line, "\r")
 				parts := strings.Split(line, "/")
 				if parts[len(parts)-1] != fmt.Sprintf("v%d", version.Major()) {
-					lines[i] = fmt.Sprintf("module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/%s/%s/v%d", rpName, namespaceName, version.Major())
+					lines[i] = fmt.Sprintf("module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/%s/%s/v%d", rpName, namespaceName, version.Major())
 				}
 				break
 			}

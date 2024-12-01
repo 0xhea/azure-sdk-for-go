@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/customproviders/armcustomproviders
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/customproviders/armcustomproviders
 
 go 1.18
 

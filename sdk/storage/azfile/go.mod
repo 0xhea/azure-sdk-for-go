@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/storage/azfile
+module github.com/0xhea/azure-sdk-for-go/sdk/storage/azfile
 
 go 1.18
 

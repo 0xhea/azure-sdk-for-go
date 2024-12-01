@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armmanagedapplications
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/resources/armmanagedapplications
 
 go 1.18
 

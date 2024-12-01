@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/monitor/ingestion/azlogs
+module github.com/0xhea/azure-sdk-for-go/sdk/monitor/ingestion/azlogs
 
 go 1.18
 

@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/eng/tools/generator
+module github.com/0xhea/azure-sdk-for-go/eng/tools/generator
 
 go 1.21
 

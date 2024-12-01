@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/quantum/armquantum
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/quantum/armquantum
 
 go 1.18
 

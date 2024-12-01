@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azcertificates
+module github.com/0xhea/azure-sdk-for-go/sdk/security/keyvault/azcertificates
 
 go 1.18
 

@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/operationsmanagement/armoperationsmanagement
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/operationsmanagement/armoperationsmanagement
 
 go 1.18
 

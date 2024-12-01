@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/m365securityandcompliance/armm365securityandcompliance
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/m365securityandcompliance/armm365securityandcompliance
 
 go 1.18
 

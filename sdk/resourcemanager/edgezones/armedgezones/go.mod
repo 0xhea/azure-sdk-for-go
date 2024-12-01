@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/edgezones/armedgezones
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/edgezones/armedgezones
 
 go 1.18
 

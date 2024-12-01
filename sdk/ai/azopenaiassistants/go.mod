@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/ai/azopenaiassistants
+module github.com/0xhea/azure-sdk-for-go/sdk/ai/azopenaiassistants
 
 go 1.18
 

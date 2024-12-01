@@ -1,5 +1,5 @@
 // Deprecated: use github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/cosmosforpostgresql/armcosmosforpostgresql instead.
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/postgresqlhsc/armpostgresqlhsc
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/postgresqlhsc/armpostgresqlhsc
 
 go 1.18
 

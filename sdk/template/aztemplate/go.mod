@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/template/aztemplate
+module github.com/0xhea/azure-sdk-for-go/sdk/template/aztemplate
 
 go 1.18
 

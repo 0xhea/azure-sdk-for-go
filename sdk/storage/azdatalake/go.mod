@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/storage/azdatalake
+module github.com/0xhea/azure-sdk-for-go/sdk/storage/azdatalake
 
 go 1.18
 

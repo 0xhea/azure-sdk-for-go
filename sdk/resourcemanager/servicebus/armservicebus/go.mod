@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/servicebus/armservicebus
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/servicebus/armservicebus
 
 go 1.18
 

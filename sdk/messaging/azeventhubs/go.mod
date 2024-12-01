@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/messaging/azeventhubs
+module github.com/0xhea/azure-sdk-for-go/sdk/messaging/azeventhubs
 
 go 1.18
 

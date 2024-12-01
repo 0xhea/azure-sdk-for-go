@@ -1,4 +1,4 @@
-module github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storsimple1200series/armstorsimple1200series
+module github.com/0xhea/azure-sdk-for-go/sdk/resourcemanager/storsimple1200series/armstorsimple1200series
 
 go 1.18
 
